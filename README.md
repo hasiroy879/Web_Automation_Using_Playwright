@@ -1,10 +1,11 @@
 ## Web automation by using Rest Assured on Daily Finace App
 ### Description: By doing this project, I can automate a web named Daily Finace App.Here, I act some activities such as
--Register a user and assert if the congratulation mail is sent and also assert the toast message
--Then login with the user and add random 2 items and assert that 2 items are showing on the item list
--Then go to profile settings and upload a profile photo and logout
--Then click on "Reset it here" from login page and then reset new password
--Finally login with with the new password and assert that login is successful.
+
+- Register a user and assert if the congratulation mail is sent and also assert the toast message.
+- Then login with the user and add random 2 items and assert that 2 items are showing on the item list.
+- Then go to profile settings and upload a profile photo and logout.
+- Then click on "Reset it here" from login page and then reset new password.
+- Finally login with with the new password and assert that login is successfull.
 
 ### Technology I used:
 - VS Code
