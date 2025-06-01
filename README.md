@@ -19,6 +19,6 @@
 ### Test Result
 #### The Daily Finance app link in which i can perform automation : [Click here](https://dailyfinance.roadtocareer.net/)
 #### Test report
-![image alt](https://github.com/hasiroy879/Junit_Automation_Project/blob/main/Capture1.PNG?raw=true)
+![image alt](https://github.com/hasiroy879/Web_Automation_Using_Playwright/blob/main/ReportOnDailyFinance.png?raw=true)
 #### Automation video
 https://github.com/user-attachments/assets/9b1659de-d193-46a7-9724-041485f9ee55
